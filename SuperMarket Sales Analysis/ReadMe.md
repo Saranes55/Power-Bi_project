@@ -32,25 +32,31 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 ## 3. Customer Segmentation
 -	Member Customers: 50.85% of total sales
 -	Normal Customers: 49.15% of total sales
-  ➡️ Loyalty membership programs positively impact revenue.
+
+➡️ Loyalty membership programs positively impact revenue.
  	
 ## 4. Gender Insights
 -	Female Customers: 51.98% of revenue
 -	Male Customers: 48.02% of revenue
-  ➡️ Female customers contribute slightly higher sales.
+
+➡️ Female customers contribute slightly higher sales.
  	
 ## 5. Payment Method Analysis
 -	Highest Average Quantity per Transaction: Credit Card
 -	Followed closely by Cash and E-wallet payments.
   
-##DAX Formulas Used:
+## DAX Formulas Used
 - Profit = SUM(supermarket_sales[Total]) - SUM(supermarket_sales[cogs])
 - Total sales = SUM('supermarket_sales'[Total])
 
-Final Conclusion
-The analysis indicates that both online and offline sales show stable performance across all branches and cities. Product lines like Electronic Accessories and Food & Beverages continue to perform well, while other categories offer potential for growth through targeted promotions. Customer satisfaction levels are strong, and the balanced gender ratio suggests wide customer appeal. To further improve performance based on this analysis:
--	Certain product lines drive higher sales, indicating key areas for revenue growth.
--	Customer purchasing behavior and payment preferences are balanced, showing flexibility in transactions.
--	Time-based sales trends highlight peak periods for targeted promotions and optimized staffing.
--	Focusing on high-performing products and operational strategies can improve overall business performance and profitability.
+## Conclusion
 
+- The supermarket shows stable and healthy sales performance with strong total sales, gross income, and product volume.
+- Electronic Accessories and Food & Beverages are the top-performing product lines in terms of quantity, revenue, and customer ratings.
+- Naypyitaw is the highest sales and profit–generating city, making it a key focus area for business expansion.
+- Member customers contribute slightly more revenue than normal customers, highlighting the success of loyalty programs.
+- Female customers generate marginally higher sales compared to male customers.
+- Credit card payments result in the highest average quantity per transaction.
+- Sales and income peak during afternoon to evening hours, indicating the best time for promotions and offers.
+  
+Overall, the dashboard provides actionable insights to improve marketing strategy, inventory planning, and customer engagement.
