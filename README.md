@@ -24,6 +24,28 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 - Highest Rated Product Line: Food & Beverages (7.11)
 - Health & Beauty recorded the lowest quantity sold, indicating growth potential.
 
+## 2. City-Level Analysis
+
+- Highest Sales & Profit City: Naypyitaw
+- Yangon and Mandalay show consistent and balanced performance.
+
+## 3. Customer Segmentation
+
+- Member Customers: 50.85% of total sales
+- Normal Customers: 49.15% of total sales
+➡️ Loyalty membership programs positively impact revenue.
+
+## 4. Gender Insights
+
+- Female Customers: 51.98% of revenue
+- Male Customers: 48.02% of revenue
+➡️ Female customers contribute slightly higher sales.
+
+## 5. Payment Method Analysis
+
+- Highest Average Quantity per Transaction: Credit Card
+- Followed closely by Cash and E-wallet payments.
+
 DAX Formulas Used
 Gross Income = SUM(Sales[gross income])
 Product Sold = SUM('Sales'[Quantity])
