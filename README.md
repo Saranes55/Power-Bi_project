@@ -18,7 +18,7 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 
 ## Dashboard Insights
 
-1. Product Performance
+## 1. Product Performance
 
 - Top Selling Product Line: Electronic Accessories (971 units)
 - Highest Rated Product Line: Food & Beverages (7.11)
