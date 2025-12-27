@@ -18,6 +18,12 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 
 ## Dashboard Insights
 
+1. Product Performance
+
+- Top Selling Product Line: Electronic Accessories (971 units)
+- Highest Rated Product Line: Food & Beverages (7.11)
+- Health & Beauty recorded the lowest quantity sold, indicating growth potential.
+
 DAX Formulas Used
 Gross Income = SUM(Sales[gross income])
 Product Sold = SUM('Sales'[Quantity])
