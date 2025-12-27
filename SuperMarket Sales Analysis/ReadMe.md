@@ -8,7 +8,7 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 - <a href="https://github.com/Saranes55/Power-Bi_project/blob/main/SuperMarket%20Sales%20Analysis/supermarket_sales%20data.csv">Dataset</a>
 
 ## Dashboard Visualization
-
+![Screenshot (495)](https://github.com/Saranes55/Power-Bi_project/blob/main/SuperMarket%20Sales%20Analysis/Dashboard.png)
 
 
 Key Metrics
