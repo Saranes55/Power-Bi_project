@@ -4,3 +4,38 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 
 ##Dataset used
 - <a href="https://github.com/Saranes55/Power-Bi_project/blob/main/supermarket_sales%20-%20Sheet1.csv">Dataset</a>
+
+## Dashboard Insights
+1. Overall Sales Chart
+This chart shows the total sales performance of the supermarket, including online and offline transactions. It helps to understand overall revenue flow and track growth over time.
+
+2. Product Line Chart
+This visualization displays sales for different product categories. It helps identify which product lines contribute most to sales and which categories require more marketing focus.
+
+3. Customer Demographics Chart
+This chart represents the gender and type of customers (Member or Normal). It helps understand the composition of the customer base and provides insights for personalized offers and promotions.
+
+4. Payment Method Chart
+This chart shows the distribution of payment preferences such as Credit Card, Cash, and E-wallet. It helps evaluate customer payment behavior and ensure smooth transaction experiences across all payment platforms.
+
+5. Time Trend Chart
+This chart illustrates sales performance across different hours of the day. It highlights peak sales periods, which can be used to optimize staff schedules and plan special time-based discounts or online flash sales.
+
+6. City and Branch Chart
+This visualization compares performance across cities and branches. It helps the management evaluate regional trends, ensuring balanced performance between physical stores and online delivery areas.
+
+DAX Formulas Used
+Gross Income = SUM(Sales[gross income])
+Product Sold = SUM('Sales'[Quantity])
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+<img width="2008" height="1137" alt="Screenshot 2025-12-27 145420" src="https://github.com/user-attachments/assets/49c89233-7326-4576-b4ff-94059ef10cf1" />
+
+ 
