@@ -11,7 +11,8 @@ Interactive HR dashboard with key workforce KPIs. Detailed attrition analysis by
 Clear comparison of current vs. exited employees. Visual identification of high-risk attrition segments.
 Business-ready dashboard suitable for executive and HR review Clean. Structured layout with filters for department, gender, and age group
 
-## Data Used
+## Dataset Used
+
 
 
 
