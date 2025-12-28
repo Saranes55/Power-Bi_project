@@ -12,7 +12,7 @@ Clear comparison of current vs. exited employees. Visual identification of high-
 Business-ready dashboard suitable for executive and HR review Clean. Structured layout with filters for department, gender, and age group
 
 ## Dataset Used
-- <a href="https://github.com/Saranes55/Power-Bi_project/blob/main/Attrition%20Analysis/HR%20Data.xlsx">Dataset</a>
+- <a href="https://github.com/Saranes55/Power-Bi_project/blob/main/Attrition%20Analysis/HR%20Data.xlsx">HR_Data</a> (Dataset)
 
 ## Dashboard Visualization
 ![Screenshot (495)](https://github.com/Saranes55/Power-Bi_project/blob/main/Attrition%20Analysis/Dashboard.png)
