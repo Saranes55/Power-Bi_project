@@ -57,9 +57,13 @@ The dashboard includes interactive slicers to enhance user-driven analysis:
 - Gender Category (Male / Female)
 
 ## DAX Formulas Used
-
-
-
+1. Total customer   = COUNT(CustomerInfo[CustomerId])
+2. Exited customers = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[Exited]=1))
+3. Retain customers = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[Exited]=0))
+4. Active member    = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[IsActiveMember]=1))
+5. Inactive member  = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[IsActiveMember]=0))
+6. Credit card holders = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[HasCrCard]=1))
+7. Non credit card holders = CALCULATE(COUNT(Bank_Churn[IsActiveMember]),KEEPFILTERS(Bank_Churn[HasCrCard]=0))
 
 ## Conclusion
 - Customer churn is influenced by time, customer activity, gender, and credit profile.
