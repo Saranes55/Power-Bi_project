@@ -46,8 +46,8 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 -	Followed closely by Cash and E-wallet payments.
   
 ## DAX Formulas Used
-1. Profit = SUM(supermarket_sales[Total]) - SUM(supermarket_sales[cogs])
-2. Total sales = SUM('supermarket_sales'[Total])
+1. **Profit** = SUM(supermarket_sales[Total]) - SUM(supermarket_sales[cogs])
+2. **Total sales** = SUM('supermarket_sales'[Total])
 
 ## Conclusion
 
