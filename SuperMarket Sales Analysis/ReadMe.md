@@ -11,7 +11,7 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 ![Screenshot (495)](https://github.com/Saranes55/Power-Bi_project/blob/main/SuperMarket%20Sales%20Analysis/Dashboard.png)
 
 
-## Key Metrics
+## Key Performance Indicators (KPIs)
 
 -	Total Sales: ₹322.97K
 -	Total Gross Income: ₹15.38K
