@@ -81,6 +81,7 @@ R&D and Sales departments contribute the most to employee turnover.
 - Male employees account for a larger share of attrition.
 - The average satisfaction score (2.73) indicates moderate employee engagement.
 - Younger and mid-career employees require focused retention strategies.
+
 Overall, the dashboard supports data-driven HR decisions to improve workforce stability.
 
 
