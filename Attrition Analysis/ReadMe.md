@@ -65,14 +65,14 @@ Business-ready dashboard suitable for executive and HR review Clean. Structured 
 - Enables deep-dive analysis and dynamic insights
 
 ## DAX Formulas Used
-1. Total employees      = COUNT('HR data'[emp no])
-2. Avg age              = AVERAGE('HR data'[Age])
-3. Attrition %          = DIVIDE('HR data'[Employee Quit],'HR data'[Total employees],100)
-4. Average satisfaction = AVERAGE('HR data'[Job Satisfaction])
-5. Current Employee     = CALCULATE(COUNT('HR data'[CF_attrition label]),KEEPFILTERS('HR data'[CF_attrition label]="current
-   employees"))
-6. Employee Quit        = CALCULATE(COUNT('HR data'[CF_attrition label]),KEEPFILTERS('HR data'[CF_attrition label]="Ex-
-   employees"))
+1. **Total employees**     = COUNT('HR data'[emp no])
+2. **Avg age**              = AVERAGE('HR data'[Age])
+3. **Attrition %**          = DIVIDE('HR data'[Employee Quit],'HR data'[Total employees],100)
+4. **Average satisfaction** = AVERAGE('HR data'[Job Satisfaction])
+5. **Current Employee**     = CALCULATE(COUNT('HR data'[CF_attrition label]),KEEPFILTERS('HR data'[CF_attrition
+                             label]="currentemployees"))
+7. **Employee Quit**       = CALCULATE(COUNT('HR data'[CF_attrition label]),KEEPFILTERS('HR data'[CF_attrition label]="Ex-
+                             employees"))
 
 ## Conclusion
 The HR dashboard highlights a 16% attrition rate, with higher exits among 25–44 age groups.
