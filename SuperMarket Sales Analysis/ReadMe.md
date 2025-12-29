@@ -44,6 +44,11 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 ## 5. Payment Method Analysis
 -	Highest Average Quantity per Transaction: Credit Card
 -	Followed closely by Cash and E-wallet payments.
+
+## Slicers 
+- **Customer Type**: Member, Normal
+- ** Gender**: Male, Female
+- **Date**: Day, Month, Year
   
 ## DAX Formulas Used
 1. **Profit** = SUM(supermarket_sales[Total]) - SUM(supermarket_sales[cogs])
