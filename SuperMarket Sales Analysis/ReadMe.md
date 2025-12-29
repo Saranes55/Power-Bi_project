@@ -47,7 +47,7 @@ The main objective of this project is to analyze the supermarket’s sales perfo
 
 ## Slicers 
 - **Customer Type**: Member, Normal
-- ** Gender**: Male, Female
+- **Gender**: Male, Female
 - **Date**: Day, Month, Year
   
 ## DAX Formulas Used
