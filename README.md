@@ -17,7 +17,7 @@ This repository demonstrates my ability to:
 
 **Objective**: Identify key factors influencing employee attrition and retention.
 
-Key Focus Areas:
+**Key Focus Areas:**
 - Attrition rate by department, gender, age group
 - Job role and experience impact on attrition
 - Salary, work-life balance, and satisfaction trends
@@ -32,7 +32,7 @@ Key Focus Areas:
 
 **Objective**: Analyze customer behavior and identify churn patterns.
 
-Key Focus Areas:
+**Key Focus Areas:**
 - Active vs inactive customers
 - Credit score and balance analysis
 - Product usage and customer segmentation
@@ -47,7 +47,7 @@ Key Focus Areas:
 
 **Objective**: Track income, expenses, and savings to improve financial decision-making.
 
-Key Focus Areas:
+**Key Focus Areas:**
 - Monthly income vs expenses
 - Category-wise spending analysis
 - Savings trends and financial health indicators
@@ -62,7 +62,7 @@ Key Focus Areas:
 
 **Objective**: Analyze sales performance and customer purchasing behavior.
 
-Key Focus Areas:
+**Key Focus Areas:**
 - Total sales, profit, and quantity sold
 - Product category and branch-wise performance
 - Customer type, payment mode, and time-based trends
